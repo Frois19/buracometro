@@ -1,5 +1,7 @@
 import { Kafka } from "kafkajs";
+import * as dotenv from "dotenv"
 
+dotenv.config();
 console.log(process.env.KAFKA_BROKER);
 
 export const kafka = new Kafka({

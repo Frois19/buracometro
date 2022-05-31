@@ -72,7 +72,7 @@ export default {
       await producer.connect();
 
       await producer.send({
-        topic: "created_potholes",
+        topic: "created_pothole",
         messages: [{ value: JSON.stringify(data) }],
       });
 
