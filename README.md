@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img alt="Buracometro" src=".github/cover.png" width="80%">
+  <img alt="Buracometro" src=".github/cover.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
