@@ -42,7 +42,7 @@ $ yarn
 # Iniciar o projeto
 # Mude o ip local nos arquivos back/src/views/images_views.ts e mobile/src/services/api.ts
 $ docker-compose up --build
-#Caso nem todos os containers inciarem com o script, favor executar no Docker Desktop
+# Caso nem todos os containers inciarem com o script, favor executar no Docker Desktop
 # Abra outro terminal no diretorio buracometro/back
 $ yarn dev
 # Instalar as dependências do aplicativo mobile do projeto
